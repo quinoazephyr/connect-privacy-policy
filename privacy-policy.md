@@ -37,9 +37,9 @@ I want to inform users of this Service that these third parties have access to t
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-**Links to Other Sites**
+**Advertising**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The service may use cookies to identify users or it may use the behavioral retargeting technique, i.e. displaying ads tailored to the users's interests and behavior, including those detected outside this Application.
 
 **Children’s Privacy**
 
@@ -49,7 +49,7 @@ I do not knowingly collect personally identifiable information from children. I 
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-10-24
+This policy is effective as of 2022-11-07
 
 **Contact Us**
 
